@@ -25,5 +25,5 @@ Full Stack Web Development Internship Project - May 2025
 
 ## 🔗 Connect with Me
 - [LinkedIn]https://www.linkedin.com/in/sravanthi-ghujarvad-b0867b326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- [Portfolio](#) *(optional)*
+- [Portfolio](#) 
 - 📧 sravanthighujarvad@gmail.com
